@@ -1,7 +1,5 @@
-#summary One-sentence summary of this page.
-
 == Welcome Everyone ==
 
-I just thought we could maybe use this place since, as far as I can tell, it seems perfect for our needs, and it seems a little faster than the actual Runestone site. Let me know what you all think!
+I just thought we could maybe use this space since, as far as I can tell, it seems perfect for our needs, and looks to be a little faster than the actual Runestone site. Let me know what you all think!
 
 Owais
