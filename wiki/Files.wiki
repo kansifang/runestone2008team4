@@ -1,0 +1,6 @@
+#summary Any Files we need for our project.
+
+= Team 4 Files =
+
+When making changes to a file, please upload the new version with a version number appended.
+For example, when changing document1.doc, upload the modified file as document1_v2.doc, and so on.
