@@ -1,6 +1,6 @@
 CS467 Team4
 
-Problem Overview
+<b>Problem Overview</b>
 
 We augmented the problem statement by adding the ability to have the robot be completely autonomous during Task Mode. Instead of using Subversion through Runestone we decided to use Runestone wiki page for official news postings and important links. Instead we used Google Code for our documents because it was a little easier to access, and didn’t require a log-in on every access. Google Code has Subversion, a Wiki, a calendar for scheduling meetings, and it also gave us the option to store document in all formats.
 
