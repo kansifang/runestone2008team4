@@ -1,0 +1,7 @@
+# Welcome Everyone #
+
+I just thought we could maybe use this space since, as far as I can tell, it seems perfect for our needs, and it already has a subversion repository built in.
+
+Here is the link to our  [Calendar](http://www.google.com/calendar/embed?src=90khgf7eeb6vdegp1k66oalvfg%40group.calendar.google.com&ctz=Europe%2FStockholm&gsessionid=P4kicvR4qbs).
+
+Owais
